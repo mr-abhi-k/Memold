@@ -1,2 +1,7 @@
-
-![Screenshot](image examples/1.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/1.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/2.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/3.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/4.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/5.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/6.jpg)
+![alt text](https://github.com/mr-abhi-k/Memold/blob/main/image%20examples/7.jpg)
